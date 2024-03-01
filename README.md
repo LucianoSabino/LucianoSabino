@@ -11,13 +11,7 @@
 
 <p align="center"><i>"A Trybe é uma escola do futuro para qualquer pessoa que deseja construir uma carreira de sucesso em tecnologia. Como estudante a pessoa ainda tem a opção de pagar os estudos apenas quando estiver formada e com um bom trabalho."</i></p> -->
 
-<div align="center">
-  <a href="https://github.com/LucianoSabino">
-<!--     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucianoSabino&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoSabino&hide_border=false&&layout=compact"/> -->
-    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"         src="https://camo.githubusercontent.com/4c8d92806e3c2322a2c390ffa0019c1d6f78a4d82108aa6946863ae362a763c8/68747470733a2f2f69322e77702e636f6d2f616c6c68746163636573732e696e666f2f77702d636f6e74656e742f75706c6f6164732f323031382f30332f70726f6772616d6d696e672e6769663f6669743d313238312532433731362673736c3d31"><br>
-  </a>
-</div>
+
 
 
 
