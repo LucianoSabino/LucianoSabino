@@ -36,4 +36,7 @@
   
   ![Snake animation](https://github.com/LucianoSabino/LucianoSabino/blob/output/github-contribution-grid-snake.svg)
   
+  
 </div> -->
+
+<div align="center"><img height="180em" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoSabino&layout=compact&langs_count=10&theme=gruvbox"/></div>
