@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile.jpg" width="180px" style="border-radius:50%" />
+  <img src="https://github.com/LucianoSabino/foto/blob/main/WhatsApp%20Image%202026-02-14%20at%2010.26.51.jpeg" width="180px" style="border-radius:50%" />
 </p>
 
 <h1 align="center">Luciano Sabino Da Silva Neto</h1>
@@ -103,19 +103,3 @@ Me especializar como desenvolvedor back-end focado em:
 - Banco de Dados de alta performance
 - Infraestrutura e deploy
 - Cloud Computing
-
----
-
-## 📫 Contato
-
-📧 Seu Email  
-💼 LinkedIn  
-🌎 Futuro Portfólio Web  
-
----
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark" />
-</p>
